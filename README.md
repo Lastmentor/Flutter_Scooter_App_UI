@@ -1,16 +1,7 @@
-# flutter_app_uwu
+# Flutter Scooter App
 
-A new Flutter application.
+![scooter](https://user-images.githubusercontent.com/23746859/99869133-af7f6400-2c1c-11eb-8897-e80b32b916f3.gif)
 
-## Getting Started
+![ac77c533d58fcf2f16b6a4c2efd46c7e](https://user-images.githubusercontent.com/23746859/99869135-b1492780-2c1c-11eb-8dbd-8177f3084b64.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For the design : https://dribbble.com/shots/7301639-unu-Scooter/attachments/234926?mode=media
